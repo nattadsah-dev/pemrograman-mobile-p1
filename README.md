@@ -21,3 +21,11 @@ Kelas: PSIK 24C
    
 6. PERNYATAAN PENGGUNAAN AI
 saya menggunakan AI (Claude) untuk memahami alur setup dan menjalankan printah git.
+
+7. ESAI
+- pendekatan native adalah metode pengembangan aplikasi yg dirancang untuk satu platform menggunakan bahasa pemrograman resmi seperti kotlin untuk android dan swift untuk ios. kelebihannya performa optimal dan akses penuh ke perangkat. kekurangannya developer harus menulis kode secara terpisah yg membutuhkan biaya dan waktu yg besar. contohnya pembuatan game 3D membutuhkan performa tinggi.
+- pendekatan hybrid membuat aplikasi dengan teknologi web HTML, CSS, JavaScript yg dibungkus native seperti Ionic atau Cordova. kelebihannya pengembangan cepat hanya membutuhkan satu platform. kekurangannya tampilan kurang menarik untuk banyak platform. contohnya aplikasi informasi kampus yg dominan teks dan formulir.
+- pendekatan cross-platform memakai satu basis kode yang dikompilasi menjadi aplikasi mendekati native seperti flutter dan react native. kelebihannya efisien dan performa lebih baik daripada hybrid. kekurangannya tetap butuh kode native untuk perangkat tertentu. contohnya aplikasi startup yang perlu rilis di android dan ios sekaligus dgn sumber daya terbatas.
+
+#RIWAYAT COMMIT
+<img width="239" height="41" alt="riwayat-commit" src="https://github.com/user-attachments/assets/8c5360b6-0d0a-414d-9c0c-14e56a8a1967" />
