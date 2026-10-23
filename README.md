@@ -5,11 +5,7 @@ NIM: 4243550006
 Kelas: PSIK 24C
 
 1. FLUTTER VERSION
-C:\Users\HP>flutter --version
-Flutter 3.47.7 • channel stable • https://github.com/flutter/flutter.git
-Framework • revision abaf9c5237 (2 weeks ago) • 2026-10-08 09:51:21 -0700
-Engine • hash d8a2d6c768c334d53e16277f837970ffa1e2de81 (revision deb287481e) (15 days ago) • 2026-10-07 17:09:12.000Z
-Tools • Dart 3.13.5 • DevTools 2.60.0
+<img width="1135" height="109" alt="flutter-version" src="https://github.com/user-attachments/assets/e3d1eb3d-e43b-4804-a67e-ad662fabd488" />
 
 2. FLUTTER DOCTOR
    <img width="1138" height="280" alt="image" src="https://github.com/user-attachments/assets/d3059120-ae56-40e0-8b51-410b7c2f41ee" />
