@@ -15,7 +15,7 @@ Tools • Dart 3.13.5 • DevTools 2.60.0
    ![flutter doctor](screenshots/flutter-doctor.jpeg)
 
 3. Aplikasi
-   ![flutter doctor](screenshots/aplikasi.jpeg)
+   ![aplikasi](screenshots/aplikasi.jpeg)
 
 4. KENDALA DAN SOLUSI
 1. Kendala: ...
