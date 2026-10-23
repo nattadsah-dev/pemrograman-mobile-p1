@@ -13,11 +13,14 @@ Tools • Dart 3.13.5 • DevTools 2.60.0
 
 2. FLUTTER DOCTOR
    ![flutter doctor](screenshots/flutter-doctor.jpeg)
+   <img width="1138" height="280" alt="image" src="https://github.com/user-attachments/assets/d3059120-ae56-40e0-8b51-410b7c2f41ee" />
 
-3. Aplikasi
+4. Aplikasi
    ![aplikasi](screenshots/aplikasi.jpeg)
+   <img width="1032" height="607" alt="WhatsApp Image 2026-10-23 at 19 12 40" src="https://github.com/user-attachments/assets/01c98555-856a-4884-9ba0-82a27bfa0d2d" />
 
-4. KENDALA DAN SOLUSI
+
+6. KENDALA DAN SOLUSI
 1. Kendala: ...
    Solusi: ...
 2. Kendala: ...
