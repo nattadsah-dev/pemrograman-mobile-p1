@@ -20,7 +20,7 @@ Kelas: PSIK 24C
 - Solusi: saya menggunakan cmd untuk menjalankan perintah git.
    
 6. PERNYATAAN PENGGUNAAN AI
-saya menggunakan AI (Claude) untuk memahami alur setup dan menjalankan printah git.
+saya menggunakan AI (Claude) untuk memahami alur setup, menjalankan printah git, menyusun draf awal esai yang kemudian saya sunting.
 
 7. ESAI
 - pendekatan native adalah metode pengembangan aplikasi yg dirancang untuk satu platform menggunakan bahasa pemrograman resmi seperti kotlin untuk android dan swift untuk ios. kelebihannya performa optimal dan akses penuh ke perangkat. kekurangannya developer harus menulis kode secara terpisah yg membutuhkan biaya dan waktu yg besar. contohnya pembuatan game 3D membutuhkan performa tinggi.
