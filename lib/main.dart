@@ -24,6 +24,13 @@ class MyApp extends StatelessWidget {
               const Text('Nama: Natasha Patricia Nainggolan'),
               const Text('NIM: 4243550006'),
               const Text('Kelas: PSIK 24C'),
+              const SizedBox(height: 17),
+              ElevatedButton(
+                onPressed: () {
+                  debugPrint('Tombol ditekan');
+                },
+                child: const Text('Klik Aku'),
+              ),
             ],
           ),
         ),
