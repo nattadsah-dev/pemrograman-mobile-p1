@@ -14,10 +14,10 @@ Kelas: PSIK 24C
    <img width="1032" height="607" alt="WhatsApp Image 2026-10-23 at 19 12 40" src="https://github.com/user-attachments/assets/01c98555-856a-4884-9ba0-82a27bfa0d2d" />
 
 5. KENDALA DAN SOLUSI
-1. Kendala: flutter doctor menampilkan tanda (X) pada Visual Studio. 
-   Solusi: dalam hal ini, Visual Studio dibutuhkan untuk aplikasi windows desktop. Untuk tugas ini hanya berjalan di android jadi tidak perlu di install.
-2. Kendala: terminal di VS Code sedang dipakai flutter run, sehingga perintah git tidak bisa diketik
-   Solusi: saya menggunakan cmd untuk menjalankan perintah git.
+- Kendala: flutter doctor menampilkan tanda (X) pada Visual Studio. 
+- Solusi: dalam hal ini, Visual Studio dibutuhkan untuk aplikasi windows desktop. Untuk tugas ini hanya berjalan di android jadi tidak perlu di install.
+- Kendala: terminal di VS Code sedang dipakai flutter run, sehingga perintah git tidak bisa diketik
+- Solusi: saya menggunakan cmd untuk menjalankan perintah git.
    
 6. PERNYATAAN PENGGUNAAN AI
 saya menggunakan AI (Claude) untuk memahami alur setup dan menjalankan printah git.
