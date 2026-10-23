@@ -5,7 +5,7 @@ NIM: 4243550006
 Kelas: PSIK 24C
 
 1. FLUTTER VERSION
-<img width="1135" height="109" alt="flutter-version" src="https://github.com/user-attachments/assets/e3d1eb3d-e43b-4804-a67e-ad662fabd488" />
+   <img width="1135" height="109" alt="flutter-version" src="https://github.com/user-attachments/assets/e3d1eb3d-e43b-4804-a67e-ad662fabd488" />
 
 2. FLUTTER DOCTOR
    <img width="1138" height="280" alt="image" src="https://github.com/user-attachments/assets/d3059120-ae56-40e0-8b51-410b7c2f41ee" />
@@ -28,4 +28,4 @@ saya menggunakan AI (Claude) untuk memahami alur setup dan menjalankan printah g
 - pendekatan cross-platform memakai satu basis kode yang dikompilasi menjadi aplikasi mendekati native seperti flutter dan react native. kelebihannya efisien dan performa lebih baik daripada hybrid. kekurangannya tetap butuh kode native untuk perangkat tertentu. contohnya aplikasi startup yang perlu rilis di android dan ios sekaligus dgn sumber daya terbatas.
 
 #RIWAYAT COMMIT
-<img width="239" height="41" alt="riwayat-commit" src="https://github.com/user-attachments/assets/8c5360b6-0d0a-414d-9c0c-14e56a8a1967" />
+   <img width="239" height="41" alt="riwayat-commit" src="https://github.com/user-attachments/assets/8c5360b6-0d0a-414d-9c0c-14e56a8a1967" />
