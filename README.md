@@ -1,17 +1,27 @@
-# pemrograman_mobile_p1
+TUGAS RUTIN 1 PEMROGRAMAN MOBILE
 
-A new Flutter project.
+Nama: Natasha Patricia Nainggolan
+NIM: 4243550006
+Kelas: PSIK 24C
 
-## Getting Started
+1. FLUTTER VERSION
+C:\Users\HP>flutter --version
+Flutter 3.47.7 • channel stable • https://github.com/flutter/flutter.git
+Framework • revision abaf9c5237 (2 weeks ago) • 2026-10-08 09:51:21 -0700
+Engine • hash d8a2d6c768c334d53e16277f837970ffa1e2de81 (revision deb287481e) (15 days ago) • 2026-10-07 17:09:12.000Z
+Tools • Dart 3.13.5 • DevTools 2.60.0
 
-This project is a starting point for a Flutter application.
+2. FLUTTER DOCTOR
+   ![flutter doctor](screenshots/flutter-doctor.jpeg)
 
-A few resources to get you started if this is your first Flutter project:
+3. Aplikasi
+   ![flutter doctor](screenshots/aplikasi.jpeg)
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+4. KENDALA DAN SOLUSI
+1. Kendala: ...
+   Solusi: ...
+2. Kendala: ...
+   Solusi: ...
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Pernyataan Penggunaan AI
+(tulis jujur, misalnya: AI digunakan untuk membantu memahami langkah setup, struktur widget, dan perintah git.)
